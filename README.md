@@ -12,19 +12,20 @@ We start each section with a short presentation of the introduced methods and al
 
 To enable as participants of different backgrounds to join, we will start the second part by giving a gentle introduction to programming in Python and using the Jupyter notebook.
 
-| Title     | Topic                                                                |
-|-----------|----------------------------------------------------------------------|
-| **9:00**  | Demonstration of the DD-DeCaF platform                               |
-| **15min** | Break                                                                |
-| **10:15** | Gentle introduction to programming in Python using Jupyter notebooks |
-| **15min** | Break                                                                |
-| **11:30** | Modeling metabolic flux using cobrapy                                |
-| **1h**    | Lunch                                                                |
-| **13:15** | Modeling metabolic flux using cobrapy (continued)                    |
-| **15min** | Break                                                                |
-| **14:15** | Model visualization and data analysis with Escher                    |
-| **15min** | Break                                                                |
-| **14:30** | Computational strain design using cameo                              |
+| Time       | Topic                                                                         |
+|------------|-------------------------------------------------------------------------------|
+| **9:00**   | (45 min) Demonstration of the DD-DeCaF platform                               |
+| **15 min** | Break                                                                         |
+| **10:00**  | (45 min) Gentle introduction to programming in Python using Jupyter notebooks |
+| **15 min** | Break                                                                         |
+| **11:30**  | (1 h) [Modeling metabolic flux using cobrapy](cobra-schedule.md  )            |
+| **1 h**    | Lunch                                                                         |
+| **13:15**  | (1 h) [Modeling metabolic flux using cobrapy (continued](cobra-schedule.md)   |
+| **15 min** | Break                                                                         |
+| **14:15**  | (1 h) Model and data visualization with Escher                                |
+| **15 min** | Break                                                                         |
+| **15:30**  | (1 h 30 min) Computational strain design using cameo                          |
+| **17:00**  | Finish                                                                        |
 
 
 No prior knowledge of programming is needed only familiarity with fundamental systems biology concepts. Just bring your laptop (installation instructions will be given for Linux, Mac and Windows).
