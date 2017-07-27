@@ -2,3 +2,4 @@ cobra==0.8.1
 cameo==0.11.0
 pandas==0.20.3
 escher==1.6.0
+plotly==2.0.12
