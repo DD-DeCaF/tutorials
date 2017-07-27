@@ -8,6 +8,6 @@ Rough schedule, we will cover as much as we can and leave the rest as homework.
   - What's in the model, reactions, metabolites, genes
   - Expressions and objectives
   - Simulating using FBA, changing the objective
-- *30 min* [Get suggestions for expression modulation targets](cameo-03-gene-expression-modulation.ipynb)
+- *30 min* [Get suggestions for expression modulation targets](cameo-03-gene-expression-modulation-targets.ipynb)
   - Flux scanning based on enforces objective flux
   - Differential FVA
