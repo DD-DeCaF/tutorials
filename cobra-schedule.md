@@ -2,7 +2,7 @@
 
 Rough schedule, we will cover as much as we can and leave the rest as homework.
 
-- *15 min* [Getting started](cobrapy-01-getting-started.ipynb)
+- *5 min* [Getting started](cobrapy-01-getting-started.ipynb)
   - Load a model and do FBA
 - *30 min* [Genome scale metabolic models and simulating](cobrapy-02-genome-scale-metabolic-models.ipynb)
   - What's in the model, reactions, metabolites, genes
@@ -18,5 +18,5 @@ Rough schedule, we will cover as much as we can and leave the rest as homework.
       - Additional constraints
   - Production envelope
   - Gene and reaction essentiality
-- *15 min* [Constraints and variables](cobrapy-05-advanced-constraints-objectives.ipynb)
+- *15 min* If there is time: [constraints and variables](cobrapy-05-advanced-constraints-objectives.ipynb)
   - Defining own variables and constraints
