@@ -1,4 +1,4 @@
-# ISCB Tutorial - cobrapy, escher, cameo and DD-DeCa
+# ISCB Tutorial - cobrapy, escher, cameo and DD-DeCaF
 
 Most modern biotechnology applications depend on efficient algorithms for modeling metabolic flux and predicting viable strain designs. The [packages](http://opencobra.github.io/cobrapy/packages) in the rapidly growing [cobrapy community](http://opencobra.github.io/cobrapy/) provide implementations of numerous popular analysis and simulation methods for constraints-based metabolic flux models, as well as search  optimization algorithms for designing novel pathways, all implemented in the widely popular and freely available programming language Python.
 
