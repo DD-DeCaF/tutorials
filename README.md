@@ -22,7 +22,7 @@ To enable as participants of different backgrounds to join, we will start the se
 | **1 h**    | Lunch                                                                                                         |
 | **13:15**  | (1 h) [Modeling metabolic flux using cobrapy (continued)](cobra-schedule.md)                                  |
 | **15 min** | Break                                                                                                         |
-| **14:15**  | (1 h) Model and data visualization with Escher                                                                |
+| **14:15**  | (1 h) [Model and data visualization with Escher](escher-01.ipynb)                                                                |
 | **15 min** | Break                                                                                                         |
 | **15:30**  | (1 h 30 min) [Computational strain design using cameo](cameo-schedule.md)                                     |
 | **17:00**  | Finish                                                                                                        |
