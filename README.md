@@ -8,7 +8,7 @@ Following that, we provide a detailed, hands-on session using the cobrapy relate
 
 # Schedule and format
 
-We start each section with a short presentation of the introduced methods and algorithms to provide the necessary background and then interactively, step-by-step reproduce the analysis together with the participants. For the demonstration of DD-DeCaF, participants are encouraged to try the platform online. For the tutorial on cobrapy and cameo, users may either follow the presenter with their own local Python installation, or by using the interactive server [FIX](fix)
+We start each section with a short presentation of the introduced methods and algorithms to provide the necessary background and then interactively, step-by-step reproduce the analysis together with the participants. For the demonstration of DD-DeCaF, participants are encouraged to try the platform online. For the tutorial on cobrapy and cameo, users may either follow the presenter with their own local Python installation, or by using the provided [JupyterHub](https://workshop.dd-decaf.eu).
 
 To enable as participants of different backgrounds to join, we will start the second part by giving a gentle introduction to programming in Python and using the Jupyter notebook.
 
