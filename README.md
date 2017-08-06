@@ -18,11 +18,11 @@ To enable as participants of different backgrounds to join, we will start the se
 | **15 min** | Break                                                                                                         |
 | **10:00**  | (45 min) [Gentle introduction to programming in Python using Jupyter notebooks](python-01-crash-course.ipynb) |
 | **15 min** | Break                                                                                                         |
-| **11:30**  | (1 h) [Modeling metabolic flux using cobrapy](cobra-schedule.md  )                                            |
+| **11:00**  | (1 h) [Modeling metabolic flux using cobrapy](cobra-schedule.md)                                              |
 | **1 h**    | Lunch                                                                                                         |
-| **13:15**  | (1 h) [Modeling metabolic flux using cobrapy (continued)](cobra-schedule.md)                                  |
+| **13:00**  | (1 h) [Modeling metabolic flux using cobrapy (continued)](cobra-schedule.md)                                  |
 | **15 min** | Break                                                                                                         |
-| **14:15**  | (1 h) [Model and data visualization with Escher](escher-01.ipynb)                                                                |
+| **14:15**  | (1 h) [Model and data visualization with Escher](escher-01.ipynb)                                             |
 | **15 min** | Break                                                                                                         |
 | **15:30**  | (1 h 30 min) [Computational strain design using cameo](cameo-schedule.md)                                     |
 | **17:00**  | Finish                                                                                                        |
